@@ -1,7 +1,7 @@
 [
 	{
-      	"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-      	"contract": "0x2071D97f7795742eAcb03783F349163E987455a7",
+		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+		"contract": "0x2071D97f7795742eAcb03783F349163E987455a7",
 		"startBlock": 19476801,
 		"endBlock": 19477951,
 		"startTime": 1650474229,
@@ -20,8 +20,8 @@
 		}
 	},
 	{
-      	"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-      	"contract": "0xbBBa85edFB6eb225892299d24E859a7EDc0F4889",
+		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+		"contract": "0xbBBa85edFB6eb225892299d24E859a7EDc0F4889",
 		"startBlock": 19476801,
 		"endBlock": 19477951,
 		"startTime": 1650474229,
