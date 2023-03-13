@@ -17,7 +17,8 @@
 			"symbol": "PYA",
 			"decimals": 18,
 			"website": "https://payroma.com"
-		}
+		},
+		"isLocked": false
 	},
 	{
 		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
@@ -37,7 +38,8 @@
 			"symbol": "SAFEMOON",
 			"decimals": 9,
 			"website": "https://safemoon.com"
-		}
+		},
+		"isLocked": false
 	},
 	{
 		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
@@ -57,7 +59,8 @@
 			"symbol": "USDT",
 			"decimals": 18,
 			"website": "https://tether.to"
-		}
+		},
+		"isLocked": false
 	},
 	{
 		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
@@ -77,7 +80,8 @@
 			"symbol": "XRP",
 			"decimals": 18,
 			"website": "https://xrpl.org"
-		}
+		},
+		"isLocked": false
 	},
 	{
 		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
@@ -97,7 +101,8 @@
 			"symbol": "PYA",
 			"decimals": 18,
 			"website": "https://payroma.com"
-		}
+		},
+		"isLocked": false
 	},
 	{
 		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
@@ -117,6 +122,7 @@
 			"symbol": "Cake",
 			"decimals": 18,
 			"website": "https://pancakeswap.finance"
-		}
+		},
+		"isLocked": false
 	}
 ]
