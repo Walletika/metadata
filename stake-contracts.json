@@ -1,139 +1,24 @@
 [
 	{
-		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-		"contract": "0x2071D97f7795742eAcb03783F349163E987455a7",
-		"startBlock": 19476801,
-		"endBlock": 19477951,
-		"startTime": 1650474229,
-		"endTime": 1658250250,
+		"rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+		"contract": "0xbfAa034b854703f31B34eCC1c68C356feeb19268",
+		"startBlock": 23545120,
+		"endBlock": 128636320,
+		"startTime": "2022-10-09 09:00:00",
+		"endTime": "2032-10-09 09:00:00",
 		"stakeToken": {
-			"contract": "0x7f3101121C113aCd5B59BC22110d4Adc3AC8205D",
-			"name": "Payroma",
-			"symbol": "PYA",
+			"contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
+			"name": "Walletika",
+			"symbol": "WTK",
 			"decimals": 18,
-			"website": "https://payroma.com"
+			"website": "https://walletika.com"
 		},
 		"rewardToken": {
-			"contract": "0x7f3101121C113aCd5B59BC22110d4Adc3AC8205D",
-			"name": "Payroma",
-			"symbol": "PYA",
+			"contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
+			"name": "Walletika",
+			"symbol": "WTK",
 			"decimals": 18,
-			"website": "https://payroma.com"
-		},
-		"isLocked": false
-	},
-	{
-		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-		"contract": "0xbBBa85edFB6eb225892299d24E859a7EDc0F4889",
-		"startBlock": 19476801,
-		"endBlock": 19477951,
-		"startTime": 1650474229,
-		"endTime": 1658250250,
-		"stakeToken": {
-			"contract": "0x7f3101121C113aCd5B59BC22110d4Adc3AC8205D",
-			"name": "Payroma",
-			"symbol": "PYA",
-			"decimals": 18,
-			"website": "https://payroma.com"
-		},
-		"rewardToken": {
-			"contract": "0x24E0e82264bC36F6249969Eb8d199641381f78Ec",
-			"name": "SafeMoon",
-			"symbol": "SAFEMOON",
-			"decimals": 9,
-			"website": "https://safemoon.com"
-		},
-		"isLocked": false
-	},
-	{
-		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-		"contract": "0xbcfeEa90652b52129f582dF125209C42D832CA1A",
-		"startBlock": 19476951,
-		"endBlock": 19477251,
-		"startTime": 1650474229,
-		"endTime": 1653066250,
-		"stakeToken": {
-			"contract": "0x7f3101121C113aCd5B59BC22110d4Adc3AC8205D",
-			"name": "Payroma",
-			"symbol": "PYA",
-			"decimals": 18,
-			"website": "https://payroma.com"
-		},
-		"rewardToken": {
-			"contract": "0xA06F80daA77d94219243188D514f546DEe7C144C",
-			"name": "USDT Token",
-			"symbol": "USDT",
-			"decimals": 18,
-			"website": "https://tether.to"
-		},
-		"isLocked": false
-	},
-	{
-		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-		"contract": "0xD5062Ae36F757a4449f9093C335aDF17E2549B8C",
-		"startBlock": 19476951,
-		"endBlock": 19477251,
-		"startTime": 1650474229,
-		"endTime": 1655658250,
-		"stakeToken": {
-			"contract": "0x7f3101121C113aCd5B59BC22110d4Adc3AC8205D",
-			"name": "Payroma",
-			"symbol": "PYA",
-			"decimals": 18,
-			"website": "https://payroma.com"
-		},
-		"rewardToken": {
-			"contract": "0x2CBf3692C65375C6caE7dF4Db4778D886019A05f",
-			"name": "Ripple",
-			"symbol": "XRP",
-			"decimals": 18,
-			"website": "https://xrpl.org"
-		},
-		"isLocked": false
-	},
-	{
-		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-		"contract": "0x864566fdb00A8673BC7BADc0368C70b71885929a",
-		"startBlock": 50,
-		"endBlock": 200,
-		"startTime": 1650474229,
-		"endTime": 1658250250,
-		"stakeToken": {
-			"contract": "0x62824b6D95260c529AF6B4B59d7d5C5F3e9ec22f",
-			"name": "Payroma",
-			"symbol": "PYA",
-			"decimals": 18,
-			"website": "https://payroma.com"
-		},
-		"rewardToken": {
-			"contract": "0x62824b6D95260c529AF6B4B59d7d5C5F3e9ec22f",
-			"name": "Payroma",
-			"symbol": "PYA",
-			"decimals": 18,
-			"website": "https://payroma.com"
-		},
-		"isLocked": false
-	},
-	{
-		"rpc": "https://ropsten.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
-		"contract": "0x78b225FfC6797074477Cf29c086e48Fa7c983fd1",
-		"startBlock": 500,
-		"endBlock": 750,
-		"startTime": 1650474229,
-		"endTime": 1658250250,
-		"stakeToken": {
-			"contract": "0x62824b6D95260c529AF6B4B59d7d5C5F3e9ec22f",
-			"name": "Payroma",
-			"symbol": "PYA",
-			"decimals": 18,
-			"website": "https://payroma.com"
-		},
-		"rewardToken": {
-			"contract": "0x30e73F0038CDcf6EEd130a24E678FbcF3FCE4a57",
-			"name": "Pancake Swap",
-			"symbol": "Cake",
-			"decimals": 18,
-			"website": "https://pancakeswap.finance"
+			"website": "https://walletika.com"
 		},
 		"isLocked": false
 	}
