@@ -8,12 +8,14 @@
 		"endTime": 1658250250,
 		"stakeToken": {
 			"contract": "0x7f3101121C113aCd5B59BC22110d4Adc3AC8205D",
+			"name": "Payroma",
 			"symbol": "PYA",
 			"decimals": 18,
 			"website": "https://payroma.com"
 		},
 		"rewardToken": {
 			"contract": "0x7f3101121C113aCd5B59BC22110d4Adc3AC8205D",
+			"name": "Payroma",
 			"symbol": "PYA",
 			"decimals": 18,
 			"website": "https://payroma.com"
@@ -29,12 +31,14 @@
 		"endTime": 1658250250,
 		"stakeToken": {
 			"contract": "0x7f3101121C113aCd5B59BC22110d4Adc3AC8205D",
+			"name": "Payroma",
 			"symbol": "PYA",
 			"decimals": 18,
 			"website": "https://payroma.com"
 		},
 		"rewardToken": {
 			"contract": "0x24E0e82264bC36F6249969Eb8d199641381f78Ec",
+			"name": "SafeMoon",
 			"symbol": "SAFEMOON",
 			"decimals": 9,
 			"website": "https://safemoon.com"
@@ -50,12 +54,14 @@
 		"endTime": 1653066250,
 		"stakeToken": {
 			"contract": "0x7f3101121C113aCd5B59BC22110d4Adc3AC8205D",
+			"name": "Payroma",
 			"symbol": "PYA",
 			"decimals": 18,
 			"website": "https://payroma.com"
 		},
 		"rewardToken": {
 			"contract": "0xA06F80daA77d94219243188D514f546DEe7C144C",
+			"name": "USDT Token",
 			"symbol": "USDT",
 			"decimals": 18,
 			"website": "https://tether.to"
@@ -71,12 +77,14 @@
 		"endTime": 1655658250,
 		"stakeToken": {
 			"contract": "0x7f3101121C113aCd5B59BC22110d4Adc3AC8205D",
+			"name": "Payroma",
 			"symbol": "PYA",
 			"decimals": 18,
 			"website": "https://payroma.com"
 		},
 		"rewardToken": {
 			"contract": "0x2CBf3692C65375C6caE7dF4Db4778D886019A05f",
+			"name": "Ripple",
 			"symbol": "XRP",
 			"decimals": 18,
 			"website": "https://xrpl.org"
@@ -92,12 +100,14 @@
 		"endTime": 1658250250,
 		"stakeToken": {
 			"contract": "0x62824b6D95260c529AF6B4B59d7d5C5F3e9ec22f",
+			"name": "Payroma",
 			"symbol": "PYA",
 			"decimals": 18,
 			"website": "https://payroma.com"
 		},
 		"rewardToken": {
 			"contract": "0x62824b6D95260c529AF6B4B59d7d5C5F3e9ec22f",
+			"name": "Payroma",
 			"symbol": "PYA",
 			"decimals": 18,
 			"website": "https://payroma.com"
@@ -113,12 +123,14 @@
 		"endTime": 1658250250,
 		"stakeToken": {
 			"contract": "0x62824b6D95260c529AF6B4B59d7d5C5F3e9ec22f",
+			"name": "Payroma",
 			"symbol": "PYA",
 			"decimals": 18,
 			"website": "https://payroma.com"
 		},
 		"rewardToken": {
 			"contract": "0x30e73F0038CDcf6EEd130a24E678FbcF3FCE4a57",
+			"name": "Pancake Swap",
 			"symbol": "Cake",
 			"decimals": 18,
 			"website": "https://pancakeswap.finance"
