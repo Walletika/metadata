@@ -5,5 +5,12 @@
         "contracts": ["0xc4d3716b65b9c4c6b69e4e260b37e0e476e28d87"],
         "price": 0.02,
         "image": "https://raw.githubusercontent.com/Walletika/metadata/main/coins/walletika.png"
+    },
+    {
+        "name": "Tether USD",
+        "symbol": "USDT",
+        "contracts": ["0x8ca86f6ee71ee4b951279711341f051195b188f8"],
+        "price": 1.0,
+        "image": "https://assets.coingecko.com/coins/images/325/small/Tether.png?1668148663"
     }
 ]
