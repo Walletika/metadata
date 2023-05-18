@@ -56,7 +56,7 @@
             "chainID": 42161,
             "symbol": "ETH",
             "explorer": "https://arbiscan.io",
-            "image": "https://github.com/Walletika/metadata/blob/main/coins/AO_logomark.png"
+            "image": "https://raw.githubusercontent.com/Walletika/metadata/main/coins/AO_logomark.png"
           },
           {
             "rpc": "https://nova.arbitrum.io/rpc",
@@ -64,7 +64,7 @@
             "chainID": 42170,
             "symbol": "ETH",
             "explorer": "https://nova.arbiscan.io",
-            "image": "https://github.com/Walletika/metadata/blob/main/coins/AN_logomark.png"
+            "image": "https://raw.githubusercontent.com/Walletika/metadata/main/coins/AN_logomark.png"
           },
           {
             "rpc": "https://goerli-rollup.arbitrum.io/rpc",
@@ -72,7 +72,7 @@
             "chainID": 421613,
             "symbol": "ETH",
             "explorer": "https://goerli.arbiscan.io",
-            "image": "https://github.com/Walletika/metadata/blob/main/coins/AO_logomark.png"
+            "image": "https://raw.githubusercontent.com/Walletika/metadata/main/coins/AO_logomark.png"
           },
           {
             "rpc": "https://rpcapi.fantom.network",
@@ -87,7 +87,7 @@
             "chainID": 10,
             "symbol": "ETH",
             "explorer": "https://optimistic.etherscan.io",
-            "image": "https://github.com/Walletika/metadata/blob/main/coins/Optimistic_Ethereum_logo.png"
+            "image": "https://raw.githubusercontent.com/Walletika/metadata/main/coins/Optimistic_Ethereum_logo.png"
           },
           {
             "rpc": "https://public-en-cypress.klaytn.net",
