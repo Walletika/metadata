@@ -187,32 +187,28 @@
             "contract": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
             "name": "Tether USD",
             "symbol": "USDT",
-            "decimals": 6,
-            "website": "https://tether.to"
+            "decimals": 6
         },
         {
             "rpc": "https://bsc-dataseed1.binance.org",
             "contract": "0x55d398326f99059fF775485246999027B3197955",
             "name": "Tether USD",
             "symbol": "USDT",
-            "decimals": 18,
-            "website": "https://tether.to"
+            "decimals": 18
         },
         {
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
             "contract": "0x8cA86F6eE71Ee4B951279711341F051195B188F8",
             "name": "Tether USD",
             "symbol": "USDT",
-            "decimals": 6,
-            "website": "https://walletika.com"
+            "decimals": 6
         },
         {
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
             "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
             "name": "Walletika",
             "symbol": "WTK",
-            "decimals": 18,
-            "website": "https://walletika.com"
+            "decimals": 18
         }
     ],
     "coinsListed": [
