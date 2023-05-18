@@ -55,21 +55,24 @@
             "name": "Arbitrum One Mainnet",
             "chainID": 42161,
             "symbol": "ETH",
-            "explorer": "https://arbiscan.io"
+            "explorer": "https://arbiscan.io",
+            "image": "https://github.com/Walletika/metadata/blob/main/coins/AO_logomark.png"
           },
           {
             "rpc": "https://nova.arbitrum.io/rpc",
             "name": "Arbitrum Nova Mainnet",
             "chainID": 42170,
             "symbol": "ETH",
-            "explorer": "https://nova.arbiscan.io"
+            "explorer": "https://nova.arbiscan.io",
+            "image": "https://github.com/Walletika/metadata/blob/main/coins/AN_logomark.png"
           },
           {
             "rpc": "https://goerli-rollup.arbitrum.io/rpc",
             "name": "Arbitrum Goerli ( Testnet )",
             "chainID": 421613,
             "symbol": "ETH",
-            "explorer": "https://goerli.arbiscan.io"
+            "explorer": "https://goerli.arbiscan.io",
+            "image": "https://github.com/Walletika/metadata/blob/main/coins/AO_logomark.png"
           },
           {
             "rpc": "https://rpcapi.fantom.network",
@@ -83,7 +86,8 @@
             "name": "Optimistic Ethereum Mainnet",
             "chainID": 10,
             "symbol": "ETH",
-            "explorer": "https://optimistic.etherscan.io"
+            "explorer": "https://optimistic.etherscan.io",
+            "image": "https://github.com/Walletika/metadata/blob/main/coins/Optimistic_Ethereum_logo.png"
           },
           {
             "rpc": "https://public-en-cypress.klaytn.net",
