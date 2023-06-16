@@ -23,7 +23,7 @@
             "ar":
                 "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service",
           },
-          "date": DateTime.now().millisecondsSinceEpoch,
+          "date": 1686930394198,
         },
         {
           "id": "what-does-keyless-mean",
@@ -37,7 +37,7 @@
             "ar":
                 "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service",
           },
-          "date": DateTime.now().millisecondsSinceEpoch,
+          "date": 1686930394198,
         },
       ],
     },
@@ -65,7 +65,7 @@
             "ar":
                 "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service",
           },
-          "date": DateTime.now().millisecondsSinceEpoch,
+          "date": 1686930394198,
         },
       ],
     },
