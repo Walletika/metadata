@@ -1,111 +1,105 @@
 [
     {
-      "id": "about",
-      "icon": "thumbtack",
-      "title": {
-        "en": "About Walletika",
-        "ar": "حول ولتيكا",
-      },
-      "desc": {
-        "en": "Everything you might want to know about Walletika",
-        "ar": "كل ما قد تريد معرفته عن ولتيكا",
-      },
-      "arts": [
-        {
-          "id": "what-is-walletika",
-          "title": {
-            "en": "What is Walletika?",
-            "ar": "ما هي ولتيكا؟",
-          },
-          "content": {
-            "en":
-                "https://raw.githubusercontent.com/Walletika/walletika-sdk-py/main/README.md",
-            "ar":
-                "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service",
-          },
-          "date": 1686930394198,
+        "id": "about",
+        "icon": "thumbtack",
+        "title": {
+            "en": "About Walletika",
+            "ar": "حول ولتيكا"
         },
-        {
-          "id": "what-does-keyless-mean",
-          "title": {
-            "en": "What does keyless mean?",
-            "ar": "ماذا يعني بدون مفتاح؟",
-          },
-          "content": {
-            "en":
-                "https://raw.githubusercontent.com/Walletika/walletika-sdk-py/main/README.md",
-            "ar":
-                "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service",
-          },
-          "date": 1686930394198,
+        "desc": {
+            "en": "Everything you might want to know about Walletika",
+            "ar": "كل ما قد تريد معرفته عن ولتيكا"
         },
-      ],
+        "arts": [
+            {
+                "id": "what-is-walletika",
+                "title": {
+                    "en": "What is Walletika?",
+                    "ar": "ما هي ولتيكا؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-sdk-py/main/README.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "what-does-keyless-mean",
+                "title": {
+                    "en": "What does keyless mean?",
+                    "ar": "ماذا يعني بدون مفتاح؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-sdk-py/main/README.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service"
+                },
+                "date": 1686930394198
+            }
+        ]
     },
     {
-      "id": "guide",
-      "icon": "thumbtack",
-      "title": {
-        "en": "How To ( Guides )",
-        "ar": "كيف (الدليل)",
-      },
-      "desc": {
-        "en": "Guides for using Walletika",
-        "ar": "أدلة لاستخدام ولتيكا",
-      },
-      "arts": [
-        {
-          "id": "what-is-walletika",
-          "title": {
-            "en": "What is Walletika?",
-            "ar": "ما هو ولتيكا؟",
-          },
-          "content": {
-            "en":
-                "https://raw.githubusercontent.com/Walletika/walletika-sdk-py/main/README.md",
-            "ar":
-                "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service",
-          },
-          "date": 1686930394198,
+        "id": "guide",
+        "icon": "thumbtack",
+        "title": {
+            "en": "How To ( Guides )",
+            "ar": "كيف (الدليل)"
         },
-      ],
+        "desc": {
+            "en": "Guides for using Walletika",
+            "ar": "أدلة لاستخدام ولتيكا"
+        },
+        "arts": [
+            {
+                "id": "what-is-walletika",
+                "title": {
+                    "en": "What is Walletika?",
+                    "ar": "ما هو ولتيكا؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-sdk-py/main/README.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service"
+                },
+                "date": 1686930394198
+            }
+        ]
     },
     {
-      "id": "security",
-      "icon": "thumbtack",
-      "title": {
-        "en": "Security",
-        "ar": "الحماية",
-      },
-      "desc": {
-        "en": "Here's how we protect you and your funds",
-        "ar": "إليك كيف نحميك أنت وأموالك",
-      },
-      "arts": [],
+        "id": "security",
+        "icon": "thumbtack",
+        "title": {
+            "en": "Security",
+            "ar": "الحماية"
+        },
+        "desc": {
+            "en": "Here's how we protect you and your funds",
+            "ar": "إليك كيف نحميك أنت وأموالك"
+        },
+        "arts": []
     },
     {
-      "id": "general",
-      "icon": "thumbtack",
-      "title": {
-        "en": "General",
-        "ar": "عام",
-      },
-      "desc": {
-        "en": "General answers about Walletika and cryptocurrencies",
-        "ar": "إجابات عامة حول ولتيكا والعملات المشفرة",
-      },
-      "arts": [],
+        "id": "general",
+        "icon": "thumbtack",
+        "title": {
+            "en": "General",
+            "ar": "عام"
+        },
+        "desc": {
+            "en": "General answers about Walletika and cryptocurrencies",
+            "ar": "إجابات عامة حول ولتيكا والعملات المشفرة"
+        },
+        "arts": []
     },
     {
-      "id": "exchange-withdrawal-guides",
-      "icon": "thumbtack",
-      "title": {
-        "en": "Exchange Withdrawal Guides",
-        "ar": "أدلة السحب الصرف",
-      },
-      "desc": {
-        "en": "See how to send your crypto to Walletika from popular exchanges",
-        "ar": "تعرف على كيفية إرسال تشفيرك إلى ولتيكا من البورصات الشهيرة",
-      },
-      "arts": [],
-    },
-  ]
+        "id": "exchange-withdrawal-guides",
+        "icon": "thumbtack",
+        "title": {
+            "en": "Exchange Withdrawal Guides",
+            "ar": "أدلة السحب الصرف"
+        },
+        "desc": {
+            "en": "See how to send your crypto to Walletika from popular exchanges",
+            "ar": "تعرف على كيفية إرسال تشفيرك إلى ولتيكا من البورصات الشهيرة"
+        },
+        "arts": []
+    }
+]
