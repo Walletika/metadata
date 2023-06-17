@@ -18,7 +18,7 @@
                     "ar": "ما هي ولتيكا؟"
                 },
                 "content": {
-                    "en": "https://raw.githubusercontent.com/Walletika/walletika-sdk-py/main/README.md",
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-sdk/main/README.md",
                     "ar": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service"
                 },
                 "date": 1686930394198
