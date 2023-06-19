@@ -18,19 +18,19 @@
                     "ar": "ما هي ولتيكا؟"
                 },
                 "content": {
-                    "en": "https://raw.githubusercontent.com/Walletika/walletika-sdk/main/README.md",
+                    "en": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service",
                     "ar": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service"
                 },
                 "date": 1686930394198
             },
             {
-                "id": "what-does-keyless-mean",
+                "id": "terms-of-service",
                 "title": {
-                    "en": "What does keyless mean?",
-                    "ar": "ماذا يعني بدون مفتاح؟"
+                    "en": "Terms Of Service",
+                    "ar": "شروط الخدمة"
                 },
                 "content": {
-                    "en": "https://raw.githubusercontent.com/asjqkkkk/markdown_widget/master/example/assets/demo_en.md",
+                    "en": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service",
                     "ar": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service"
                 },
                 "date": 1686930394198
@@ -48,20 +48,7 @@
             "en": "Guides for using Walletika",
             "ar": "أدلة لاستخدام ولتيكا"
         },
-        "arts": [
-            {
-                "id": "what-is-walletika",
-                "title": {
-                    "en": "What is Walletika?",
-                    "ar": "ما هو ولتيكا؟"
-                },
-                "content": {
-                    "en": "https://raw.githubusercontent.com/Walletika/walletika-sdk-py/main/README.md",
-                    "ar": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service"
-                },
-                "date": 1686930394198
-            }
-        ]
+        "arts": []
     },
     {
         "id": "security",
