@@ -4,7 +4,7 @@
         "icon": "thumbtack",
         "title": {
             "en": "About Walletika",
-            "ar": "حول ولتيكا"
+            "ar": "عن ولتيكا"
         },
         "desc": {
             "en": "Everything you might want to know about Walletika",
@@ -18,20 +18,32 @@
                     "ar": "ما هي ولتيكا؟"
                 },
                 "content": {
-                    "en": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service",
-                    "ar": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service"
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-walletika/readme.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-walletika/readme.md"
                 },
                 "date": 1686930394198
             },
             {
-                "id": "terms-of-service",
+                "id": "what-is-keyless",
                 "title": {
-                    "en": "Terms Of Service",
-                    "ar": "شروط الخدمة"
+                    "en": "What is keyless mean?",
+                    "ar": "ماذا يعني بدون مفتاح؟"
                 },
                 "content": {
-                    "en": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service",
-                    "ar": "https://raw.githubusercontent.com/Walletika/metadata/main/terms-of-service"
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-keyless/readme.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-keyless/readme.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-different-from-other",
+                "title": {
+                    "en": "How is Walletika different from other wallets?",
+                    "ar": "كيف تختلف ولتيكا عن المحافظ الأخرى؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-different-from-other/readme.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-different-from-other/readme.md"
                 },
                 "date": 1686930394198
             }
