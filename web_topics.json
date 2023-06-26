@@ -64,8 +64,8 @@
             {
                 "id": "how-to-install",
                 "title": {
-                    "en": "How to install as a hot and cold wallet?",
-                    "ar": "كيفية التثبيت كمحفظة ساخنة وباردة؟"
+                    "en": "How to install as a hot or cold wallet?",
+                    "ar": "كيفية التثبيت كمحفظة ساخنة أو باردة؟"
                 },
                 "content": {
                     "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-install/en.md",
@@ -74,10 +74,22 @@
                 "date": 1686930394198
             },
             {
+                "id": "how-to-create-wallet",
+                "title": {
+                    "en": "How to create a wallet or recover an existing wallet?",
+                    "ar": "كيفية إنشاء محفظة او استرداد محفظة موجوده بالفعل؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-create-wallet/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-create-wallet/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
                 "id": "how-to-setup-2fa",
                 "title": {
-                    "en": "How to setup and recovery two-factor authentication?",
-                    "ar": "كيفية إعداد المصادقة الثنائية والاسترداد؟"
+                    "en": "How to setup two-factor authentication or recovery it?",
+                    "ar": "كيفية إعداد المصادقة الثنائية أو استردادها؟"
                 },
                 "content": {
                     "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-setup-2fa/en.md",
