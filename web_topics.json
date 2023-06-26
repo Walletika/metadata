@@ -64,12 +64,24 @@
             {
                 "id": "how-to-install",
                 "title": {
-                    "en": "How to install as hot and cold wallet?",
+                    "en": "How to install as a hot and cold wallet?",
                     "ar": "كيفية التثبيت كمحفظة ساخنة وباردة؟"
                 },
                 "content": {
                     "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-install/en.md",
                     "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-install/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-setup-2fa",
+                "title": {
+                    "en": "How to setup two-factor authentication and recovery?",
+                    "ar": "كيفية إعداد المصادقة الثنائية والاسترداد؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-recover-2fa/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-recover-2fa/ar.md"
                 },
                 "date": 1686930394198
             }
