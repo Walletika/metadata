@@ -76,12 +76,12 @@
             {
                 "id": "how-to-setup-2fa",
                 "title": {
-                    "en": "How to setup two-factor authentication and recovery?",
+                    "en": "How to setup and recovery two-factor authentication?",
                     "ar": "كيفية إعداد المصادقة الثنائية والاسترداد؟"
                 },
                 "content": {
-                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-recover-2fa/en.md",
-                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-recover-2fa/ar.md"
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-setup-2fa/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-setup-2fa/ar.md"
                 },
                 "date": 1686930394198
             }
