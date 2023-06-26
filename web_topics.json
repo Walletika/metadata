@@ -18,8 +18,8 @@
                     "ar": "ما هي ولتيكا؟"
                 },
                 "content": {
-                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-walletika/readme.md",
-                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-walletika/readme.md"
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-walletika/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-walletika/ar.md"
                 },
                 "date": 1686930394198
             },
@@ -30,8 +30,8 @@
                     "ar": "ماذا يعني بدون مفتاح؟"
                 },
                 "content": {
-                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-keyless/readme.md",
-                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-keyless/readme.md"
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-keyless/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/what-is-keyless/ar.md"
                 },
                 "date": 1686930394198
             },
@@ -42,8 +42,8 @@
                     "ar": "كيف تختلف ولتيكا عن المحافظ الأخرى؟"
                 },
                 "content": {
-                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-different-from-other/readme.md",
-                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-different-from-other/readme.md"
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-different-from-other/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-different-from-other/ar.md"
                 },
                 "date": 1686930394198
             }
@@ -60,7 +60,20 @@
             "en": "Guides for using Walletika",
             "ar": "أدلة لاستخدام ولتيكا"
         },
-        "arts": []
+        "arts": [
+            {
+                "id": "how-to-install",
+                "title": {
+                    "en": "How to install as hot and cold wallet?",
+                    "ar": "كيفية التثبيت كمحفظة ساخنة وباردة؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-install/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-install/ar.md"
+                },
+                "date": 1686930394198
+            }
+        ]
     },
     {
         "id": "security",
