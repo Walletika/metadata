@@ -144,6 +144,18 @@
                     "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-send/ar.md"
                 },
                 "date": 1686930394198
+            },
+            {
+                "id": "how-to-show-private-key",
+                "title": {
+                    "en": "How to get my private key?",
+                    "ar": "كيف أحصل على مفتاحي الخاص؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-show-private-key/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-show-private-key/ar.md"
+                },
+                "date": 1686930394198
             }
         ]
     },
