@@ -96,6 +96,54 @@
                     "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-setup-2fa/ar.md"
                 },
                 "date": 1686930394198
+            },
+            {
+                "id": "how-to-add-network",
+                "title": {
+                    "en": "How to add and remove a blockchain network?",
+                    "ar": "كيفية إضافة وحذف شبكة بلوكتشين؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-add-network/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-add-network/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-add-token",
+                "title": {
+                    "en": "How to add and remove a token?",
+                    "ar": "كيفية إضافة وحذف توكن؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-add-token/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-add-token/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-receive",
+                "title": {
+                    "en": "How to receive my deposit amount?",
+                    "ar": "كيف أستلم مبلغ الإيداع الخاص بي؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-receive/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-receive/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-send",
+                "title": {
+                    "en": "How to send a transaction to another wallet?",
+                    "ar": "كيفية إرسال معاملة إلى محفظة أخرى؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-send/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-send/ar.md"
+                },
+                "date": 1686930394198
             }
         ]
     },
