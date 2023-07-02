@@ -217,9 +217,34 @@
             "ar": "السرية واتفاقية المستخدم"
         },
         "desc": {
-            "en": "Answers to our questions about privacy and user contracts",
-            "ar": "إجابات على أسئلتنا حول الخصوصية وعقود المستخدم"
+            "en": "Everything about our Privacy Policy and Terms of Service",
+            "ar": "كل ما يتعلق بسياسة الخصوصية وشروط الخدمة الخاصة بنا"
         },
-        "arts": []
+        "arts": [
+            {
+                "id": "privacy-policy",
+                "title": {
+                    "en": "Privacy Policy",
+                    "ar": "سياسة الخصوصية"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/privacy-policy/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/privacy-policy/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "terms-of-use",
+                "title": {
+                    "en": "Terms of Service",
+                    "ar": "شروط الخدمة"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/terms-of-use/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/terms-of-use/ar.md"
+                },
+                "date": 1686930394198
+            }
+        ]
     }
 ]
