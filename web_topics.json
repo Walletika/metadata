@@ -1,7 +1,7 @@
 [
     {
         "id": "about",
-        "icon": "info-circle",
+        "icon": "la-info-circle",
         "title": {
             "en": "About Walletika",
             "ar": "عن ولتيكا"
@@ -51,7 +51,7 @@
     },
     {
         "id": "guide",
-        "icon": "certificate",
+        "icon": "la-certificate",
         "title": {
             "en": "How To ( Guides )",
             "ar": "كيف (الدليل)"
@@ -185,7 +185,7 @@
     },
     {
         "id": "confidentiality-and-user-agreement",
-        "icon": "balance-scale",
+        "icon": "la-balance-scale",
         "title": {
             "en": "Confidentiality and user agreement",
             "ar": "السرية واتفاقية المستخدم"
