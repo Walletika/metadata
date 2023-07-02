@@ -1,7 +1,7 @@
 [
     {
         "id": "about",
-        "icon": "thumbtack",
+        "icon": "info-circle",
         "title": {
             "en": "About Walletika",
             "ar": "عن ولتيكا"
@@ -51,7 +51,7 @@
     },
     {
         "id": "guide",
-        "icon": "thumbtack",
+        "icon": "certificate",
         "title": {
             "en": "How To ( Guides )",
             "ar": "كيف (الدليل)"
@@ -184,34 +184,8 @@
         ]
     },
     {
-        "id": "security",
-        "icon": "thumbtack",
-        "title": {
-            "en": "Security",
-            "ar": "الحماية"
-        },
-        "desc": {
-            "en": "Here's how we protect you and your funds",
-            "ar": "إليك كيف نحميك أنت وأموالك"
-        },
-        "arts": []
-    },
-    {
-        "id": "general",
-        "icon": "thumbtack",
-        "title": {
-            "en": "General",
-            "ar": "عام"
-        },
-        "desc": {
-            "en": "General answers about Walletika and cryptocurrencies",
-            "ar": "إجابات عامة حول ولتيكا والعملات المشفرة"
-        },
-        "arts": []
-    },
-    {
         "id": "confidentiality-and-user-agreement",
-        "icon": "thumbtack",
+        "icon": "balance-scale",
         "title": {
             "en": "Confidentiality and user agreement",
             "ar": "السرية واتفاقية المستخدم"
