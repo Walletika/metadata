@@ -156,6 +156,30 @@
                     "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-show-private-key/ar.md"
                 },
                 "date": 1686930394198
+            },
+            {
+                "id": "how-to-backup",
+                "title": {
+                    "en": "How to backup and import my wallets?",
+                    "ar": "كيفية عمل نسخة احتياطية من محافظي واستيرادها؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-backup/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-backup/ar.md"
+                },
+                "date": 1686930394198
+            },
+            {
+                "id": "how-to-stake",
+                "title": {
+                    "en": "How to stake, unstake and claim?",
+                    "ar": "كيفية التخزين وإلغاء التخزين والمطالبة بالارباح؟"
+                },
+                "content": {
+                    "en": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-stake/en.md",
+                    "ar": "https://raw.githubusercontent.com/Walletika/walletika-web-docs/main/how-to-stake/ar.md"
+                },
+                "date": 1686930394198
             }
         ]
     },
@@ -186,15 +210,15 @@
         "arts": []
     },
     {
-        "id": "exchange-withdrawal-guides",
+        "id": "confidentiality-and-user-agreement",
         "icon": "thumbtack",
         "title": {
-            "en": "Exchange Withdrawal Guides",
-            "ar": "أدلة السحب الصرف"
+            "en": "Confidentiality and user agreement",
+            "ar": "السرية واتفاقية المستخدم"
         },
         "desc": {
-            "en": "See how to send your crypto to Walletika from popular exchanges",
-            "ar": "تعرف على كيفية إرسال تشفيرك إلى ولتيكا من البورصات الشهيرة"
+            "en": "Answers to our questions about privacy and user contracts",
+            "ar": "إجابات على أسئلتنا حول الخصوصية وعقود المستخدم"
         },
         "arts": []
     }
