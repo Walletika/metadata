@@ -51,7 +51,7 @@
     },
     {
         "id": "guide",
-        "icon": "certificate",
+        "icon": "bookReader",
         "title": {
             "en": "How To ( Guides )",
             "ar": "كيف (الدليل)"
@@ -184,10 +184,10 @@
         ]
     },
     {
-        "id": "confidentiality-and-user-agreement",
+        "id": "user-agreement",
         "icon": "balanceScale",
         "title": {
-            "en": "Confidentiality and user agreement",
+            "en": "Confidentiality and User Agreement",
             "ar": "السرية واتفاقية المستخدم"
         },
         "desc": {
