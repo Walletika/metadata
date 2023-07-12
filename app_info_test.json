@@ -1,5 +1,5 @@
 {
-    "appChecksum": "93ec39012c1f62c8fd1d0e664d296c8fc0ee9dd0d76e58790c0fe27b030056a9",
+    "appChecksum": "2485f4d55aae6c5b073114bc4c4b1907c0abae14166281beee7d93f76ebf41fc",
     "defaultNetworks": [
         {
             "rpc": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
@@ -251,6 +251,29 @@
                 "website": "https://walletika.com"
             },
             "isLocked": false
-        }
+        },
+        {
+          "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
+          "contract": "0x63DA5E79beE929CE1ccA0cdEc58D081e19d89d45",
+          "startBlock": 31490492,
+          "endBlock": 31692092,
+          "startTime": 1689167675000,
+          "endTime": 1689772466000,
+          "stakeToken": {
+              "contract": "0x8cA86F6eE71Ee4B951279711341F051195B188F8",
+              "name": "Tether USD",
+              "symbol": "USDT",
+              "decimals": 6,
+              "website": "https://walletika.com"
+          },
+          "rewardToken": {
+              "contract": "0xc4d3716B65b9c4c6b69e4E260b37e0e476e28d87",
+              "name": "Walletika",
+              "symbol": "WTK",
+              "decimals": 18,
+              "website": "https://walletika.com"
+          },
+          "isLocked": true
+      }
     ]
 }
