@@ -205,7 +205,7 @@
         },
         {
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-            "contract": "0x5531795Dfc80F3052D842A5F85e925Bdea4C1041",
+            "contract": "0xe7D28bAB8f375D0b07f382b92C3B6c9C4c1eeb8a",
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 18
@@ -237,7 +237,7 @@
         {
             "name": "USD Coin",
             "symbol": "USDC",
-            "contracts": ["0x5531795Dfc80F3052D842A5F85e925Bdea4C1041"],
+            "contracts": ["0xe7d28bab8f375d0b07f382b92c3b6c9c4c1eeb8a"],
             "price": 1.0,
             "image": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
         }
@@ -291,7 +291,7 @@
         },
         {
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
-            "contract": "0xC6CC01E5B1e1220e53599855b9806D60C4293d7B",
+            "contract": "0x5531795Dfc80F3052D842A5F85e925Bdea4C1041",
             "startBlock": 31490492,
             "endBlock": 32354492,
             "startTime": 1689167675000,
@@ -304,7 +304,7 @@
                 "website": "https://walletika.com"
             },
             "rewardToken": {
-                "contract": "0x5531795Dfc80F3052D842A5F85e925Bdea4C1041",
+                "contract": "0xe7D28bAB8f375D0b07f382b92C3B6c9C4c1eeb8a",
                 "name": "USD Coin",
                 "symbol": "USDC",
                 "decimals": 18,
