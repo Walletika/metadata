@@ -1,6 +1,6 @@
 {
-    "appChecksum": "2485f4d55aae6c5b073114bc4c4b1907c0abae14166281beee7d93f76ebf41fc",
-    "defaultNetworks": [
+    "version": "1.0.0",
+    "listedNetworks": [
         {
             "rpc": "https://mainnet.infura.io/v3/0bbf89ffa7794d2f9fd1ebd4cae51edd",
             "name": "Ethereum Mainnet",
@@ -181,7 +181,7 @@
             "explorer": "https://scan.coredao.org"
         }
     ],
-    "defaultTokens": [
+    "listedCoins": [
         {
             "rpc": "https://mainnet.infura.io/v3/0bbf89ffa7794d2f9fd1ebd4cae51edd",
             "contract": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
@@ -218,9 +218,8 @@
             "decimals": 18
         }
     ],
-    "coinsListed": [
+    "offlineCoins": [
         {
-
             "name": "Walletika",
             "symbol": "WTK",
             "contracts": ["0xc4d3716b65b9c4c6b69e4e260b37e0e476e28d87"],
@@ -242,7 +241,7 @@
             "image": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
         }
     ],
-    "stakeContracts": [
+    "listedStakes": [
         {
             "rpc": "https://data-seed-prebsc-1-s1.binance.org:8545",
             "contract": "0xbfAa034b854703f31B34eCC1c68C356feeb19268",
